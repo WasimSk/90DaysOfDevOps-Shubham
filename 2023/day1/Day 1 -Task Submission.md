@@ -3,7 +3,7 @@ Completed the Day-1 task
 
 - Forked the Repo.
 - Started with a DevOps Roadmap[https://youtu.be/iOE9NTAG35g]
-- Writeen a LinkedIn post or a small article about your understanding of DevOps
+- Written a LinkedIn post or a small article about your understanding of DevOps
     - https://wasimsk.hashnode.dev/day-1-introduction-to-devops 
  - <b>What is DevOps?</b>
           
